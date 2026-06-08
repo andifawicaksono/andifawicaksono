@@ -31,29 +31,6 @@ Passionate software engineer with experience in designing, developing, and maint
 * 📊 Strong background in Database Design and Query Optimization
 * 🌏 Open to collaborating on innovative software projects
 
----
-
-## 📈 What I Focus On
-
-* Enterprise Software Development
-* Backend Architecture
-* Microservices Design
-* Artificial Intelligence Solutions
-* Database Performance Optimization
-* Clean Code & Best Practices
-
----
-
-## 📚 Currently Learning
-
-* Advanced AI Agents
-* Large Language Models (LLMs)
-* Deep Learning Architectures
-* Cloud Native Applications
-* MLOps
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/andifa-w-951418132](http://www.linkedin.com/in/andifa-w-951418132)
